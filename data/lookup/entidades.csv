@@ -1,0 +1,33 @@
+﻿series_id,state_name,cve_ent
+SE29670,Aguascalientes,01
+SE29671,Baja California,02
+SE29672,Baja California Sur,03
+SE29673,Campeche,04
+SE29674,Coahuila de Zaragoza,05
+SE29675,Colima,06
+SE29676,Chiapas,07
+SE29677,Chihuahua,08
+SE29678,Ciudad de México,09
+SE29679,Durango,10
+SE29681,Guanajuato,11
+SE29682,Guerrero,12
+SE29683,Hidalgo,13
+SE29684,Jalisco,14
+SE29680,México,15
+SE29685,Michoacán de Ocampo,16
+SE29686,Morelos,17
+SE29687,Nayarit,18
+SE29688,Nuevo León,19
+SE29689,Oaxaca,20
+SE29690,Puebla,21
+SE29691,Querétaro,22
+SE29692,Quintana Roo,23
+SE29693,San Luis Potosí,24
+SE29694,Sinaloa,25
+SE29695,Sonora,26
+SE29696,Tabasco,27
+SE29697,Tamaulipas,28
+SE29698,Tlaxcala,29
+SE29699,Veracruz de Ignacio de la Llave,30
+SE29700,Yucatán,31
+SE29701,Zacatecas,32
