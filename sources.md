@@ -9,8 +9,15 @@
 "SE29690" "SE29691" "SE29692" "SE29693" "SE29694"
 "SE29695" "SE29696" "SE29697" "SE29698" "SE29699"
 "SE29670" "SE29671"
-- Units / frequency:
-- First available period: Primer trimestre 2013
+- Units / frequency: Millones de dólares / trimestral
+- First available period: Primer trimestre 2003
+- Notes:
+
+## Banco de México (BANXICO): Ingresos por Remesas - (CE81)
+- Access: SIE API
+- Series IDs: "SE27803"
+- Units / frequency: Millones de dólares / mensual
+- First available period: Enero 1995
 - Notes:
 
 
@@ -24,3 +31,5 @@
 ## Decisions and oddities:
 - Manual download of CE166 because, although they are series, the API has call
 limits.
+- Checked that the remittance totals of each state match the national total for
+the corresponding quarter. The differences aresmaller than 0 percentage-wise.
