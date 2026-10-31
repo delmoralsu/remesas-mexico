@@ -33,6 +33,15 @@ Specific row for unallocated remittances: No identificado
 - Approx 2519 rows (including state and non-identified rows, 64 extra).
 - Unit: Millones de dólares / trimestral
 
+## INEGI: Catálogo Único de Claves de Áreas Geoestadísticas Estatales, Municipales
+y Localidades (AGEEML)
+- Access: manual download from INEGI website
+- URL: https://www.inegi.org.mx/app/ageeml/#
+- Filename in data/raw: inegi_codes.csv
+- Accessed: 31 October 2026
+- Notes: header in row 1, includes population and household details, updated as of September
+2026.
+
 ## Decisions and oddities:
 - Manual download of CE166 because, although they are series, the API has call
 limits.
