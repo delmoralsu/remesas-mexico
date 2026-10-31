@@ -25,6 +25,13 @@
 - File name in data/raw: remesas_muni.csv
 - Accessed: 17 October 2026
 - Notes: Ene-Mar 2013 - Abr-Jun 2026.
+- Layout: header in row 10, data starts in row 11. Wide dataset, one row per series
+(state total and by municipio). Columns are title, type of info, serie and quarters, from
+01/01/13 to 01/04/26.
+- Rows: first state total, then by municipio: Ingresos por Remesas Familiares, State, Municipio.
+Specific row for unallocated remittances: No identificado
+- Approx 2519 rows (including state and non-identified rows, 64 extra).
+- Unit: Millones de dólares / trimestral
 
 ## Decisions and oddities:
 - Manual download of CE166 because, although they are series, the API has call
